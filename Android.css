@@ -1,0 +1,85 @@
+body{
+
+   background-image:url("Android.jpg");
+   background-image: fixed;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+.center{
+          text-align: center;
+          text-decoration: underline;
+}
+
+#image {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px;
+    width: 150px;
+    height: 150px;
+    float: left;
+}
+
+#vid{
+	text-align: center;
+	padding-top: 80px;
+
+}
+p {
+	text-indent: 30px;
+	margin: 10px 20px 10px 20px;
+	font-family: Arial, sans-serif;
+	padding: 20px;
+
+}
+p.text{
+	text-align: justify-all;
+	
+	}
+
+#aa{
+	text-align: center;
+
+}
+#ab{
+	text-align: center;
+	padding-top: 10000px;
+}
+#con{
+	text-decoration:underline;
+	color: green;
+	text-align: center;
+}
+#sa{
+	width:30%;
+	height:200px;
+}
+#bb{
+	float: center;
+	padding-left: 670px;
+}
+#ss{
+      padding-left: 43%;
+}
